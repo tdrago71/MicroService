@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32317.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentAdmissionManagement", "StudentAdmissionManagement\StudentAdmissionManagement.csproj", "{8BF1DFB0-68EE-4A42-878C-507A06EC5809}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentAttendanceManagement", "StudentAttendanceManagement\StudentAttendanceManagement.csproj", "{0680E4D3-7A36-4C95-88DF-0A60E51D5CB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolAPIGateway", "SchoolAPIGateway\SchoolAPIGateway.csproj", "{A7F48D68-5A85-4889-BC15-75E2A43950E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF1DFB0-68EE-4A42-878C-507A06EC5809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF1DFB0-68EE-4A42-878C-507A06EC5809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF1DFB0-68EE-4A42-878C-507A06EC5809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF1DFB0-68EE-4A42-878C-507A06EC5809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0680E4D3-7A36-4C95-88DF-0A60E51D5CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0680E4D3-7A36-4C95-88DF-0A60E51D5CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0680E4D3-7A36-4C95-88DF-0A60E51D5CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0680E4D3-7A36-4C95-88DF-0A60E51D5CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F48D68-5A85-4889-BC15-75E2A43950E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F48D68-5A85-4889-BC15-75E2A43950E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F48D68-5A85-4889-BC15-75E2A43950E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F48D68-5A85-4889-BC15-75E2A43950E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2321385A-B324-4854-99D4-F223DBE1CD4E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tdrago71-hotmail.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = StudentAdmissionManagement\\StudentAdmissionManagement.csproj
+		SccProjectName1 = StudentAdmissionManagement
+		SccLocalPath1 = StudentAdmissionManagement
+		SccProjectUniqueName2 = StudentAttendanceManagement\\StudentAttendanceManagement.csproj
+		SccProjectName2 = StudentAttendanceManagement
+		SccLocalPath2 = StudentAttendanceManagement
+		SccProjectUniqueName3 = SchoolAPIGateway\\SchoolAPIGateway.csproj
+		SccProjectName3 = SchoolAPIGateway
+		SccLocalPath3 = SchoolAPIGateway
+	EndGlobalSection
+EndGlobal
